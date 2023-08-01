@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hii 👋, I'm Maan</h1>
 
-<!--
-**mansi1401/mansi1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mansi1401&label=Profile%20views&color=0e75b6&style=flat" alt="mansi1401" />
+</p>
 
-Here are some ideas to get you started:
+> 👀 I am Maan, working as a Software Developer Intern at CoreCard Software Inc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
+
+> 💬 Ask me about **Web Development**
+
+> ⚡ Fun fact **I love to improve my understanding and competence at every point in life.**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansi1401&" alt="mansi1401" />
+</p>
