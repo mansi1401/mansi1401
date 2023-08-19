@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mansi1401&label=Profile%20views&color=0e75b6&style=flat" alt="mansi1401" />
 </p>
 
-> 👀 I am Maan, working as a Software Developer Intern at CoreCard Software Inc.
+> 👀 I am Mansi Vishwakarma, working as a Software Developer Intern at CoreCard Software Inc.
 
 > 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
 
