@@ -12,6 +12,8 @@
 
 > ⚡ Fun fact **I love to improve my understanding and competence at every point in life.**
 
+[![An image of @mansi1401's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi1401)](https://holopin.io/@mansi1401)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansi1401&" alt="mansi1401" />
 </p>
